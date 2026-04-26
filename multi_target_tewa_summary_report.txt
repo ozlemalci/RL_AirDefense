@@ -1,0 +1,13 @@
+MULTI-TARGET TEWA PPO REPORT
+================================================================================
+
+Total Scenarios              : 1000
+Train Scenarios              : 700
+Validation Scenarios         : 150
+Test Scenarios               : 150
+Evaluation Validation        : 150
+Evaluation Test              : 150
+
+ScenarioSet  NumScenarios  TotalTargets  AvgEpisodeReward  StdEpisodeReward  OperationalAccuracy  EngageDecisionAccuracy  NoEngageDecisionAccuracy  HostileFeasibleEngagementRate  FriendlyHoldRate
+ VALIDATION           150           938         47.488936         20.661020             0.958422                0.949612                       1.0                            1.0               1.0
+       TEST           150          1028         52.209517         20.247388             0.953307                0.942584                       1.0                            1.0               1.0

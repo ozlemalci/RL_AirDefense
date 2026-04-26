@@ -1,0 +1,81 @@
+TEST SENARYO ANGAJMAN SONUÇLARI
+============================================================================================================================================
+
+SENARYO NO              : 6
+ScenarioSet             : TEST
+Toplam Hedef Sayısı     : 4
+Episode Toplam Reward   : 31.7812
+Operational Accuracy    : 1.0000
+
+Hedef-1
+  Adı                    : Eurofighter Typhoon
+  RewardSignal           : 0.9853
+  Distance_km            : 5.98
+  Altitude_m             : 11627.54
+  ECMScore               : 1.0000
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 2706.30
+  TTI_sec                : 7.9548
+  TTI_score              : 1.0000
+  FeasibleInitial        : 1
+  FeasibleSystemsInitial : HİSAR O+
+  ExpectedAction         : HİSAR O+
+  ChosenAction           : HİSAR O+
+  PkillEstimate          : 0.7087
+  OperationalCorrect     : 1
+
+Hedef-2
+  Adı                    : Heron TP (Eitan)
+  RewardSignal           : 0.4301
+  Distance_km            : 7.58
+  Altitude_m             : 3654.06
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 383.77
+  TTI_sec                : 71.1051
+  TTI_score              : 0.3437
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.5695
+  OperationalCorrect     : 1
+
+Hedef-3
+  Adı                    : H-6
+  RewardSignal           : 0.4275
+  Distance_km            : 32.96
+  Altitude_m             : 5108.28
+  ECMScore               : 0.2500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 1138.97
+  TTI_sec                : 104.1783
+  TTI_score              : 0.0000
+  FeasibleInitial        : 1
+  FeasibleSystemsInitial : SİPER
+  ExpectedAction         : SİPER
+  ChosenAction           : SİPER
+  PkillEstimate          : 0.9006
+  OperationalCorrect     : 1
+
+Hedef-4
+  Adı                    : Kh-55 Seyir Füzesi
+  RewardSignal           : 0.2515
+  Distance_km            : 13.31
+  Altitude_m             : 2397.45
+  ECMScore               : 0.2500
+  Detected               : 1
+  IFF                    : 0
+  Speed_kmh              : 887.55
+  TTI_sec                : 53.9868
+  TTI_score              : 0.5216
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.6786
+  OperationalCorrect     : 1
+

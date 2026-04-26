@@ -1,0 +1,81 @@
+VALIDATION SENARYO ANGAJMAN SONUÇLARI
+============================================================================================================================================
+
+SENARYO NO              : 2
+ScenarioSet             : VALIDATION
+Toplam Hedef Sayısı     : 4
+Episode Toplam Reward   : 36.7746
+Operational Accuracy    : 1.0000
+
+Hedef-1
+  Adı                    : Eurofighter Typhoon
+  RewardSignal           : 0.9853
+  Distance_km            : 13.77
+  Altitude_m             : 352.60
+  ECMScore               : 1.0000
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 2609.72
+  TTI_sec                : 18.9951
+  TTI_score              : 1.0000
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.4829
+  OperationalCorrect     : 1
+
+Hedef-2
+  Adı                    : Bayraktar Akıncı TİHA
+  RewardSignal           : 0.4302
+  Distance_km            : 110.73
+  Altitude_m             : 14470.11
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 0
+  Speed_kmh              : 401.12
+  TTI_sec                : 993.7874
+  TTI_score              : 0.0000
+  FeasibleInitial        : 1
+  FeasibleSystemsInitial : SİPER
+  ExpectedAction         : SİPER
+  ChosenAction           : SİPER
+  PkillEstimate          : 0.8749
+  OperationalCorrect     : 1
+
+Hedef-3
+  Adı                    : MQ-9 Reaper
+  RewardSignal           : 0.3604
+  Distance_km            : 9.67
+  Altitude_m             : 5354.34
+  ECMScore               : 0.2500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 490.58
+  TTI_sec                : 70.9609
+  TTI_score              : 0.9467
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.7031
+  OperationalCorrect     : 1
+
+Hedef-4
+  Adı                    : UH-60 Black Hawk
+  RewardSignal           : 0.1940
+  Distance_km            : 49.88
+  Altitude_m             : 19045.18
+  ECMScore               : 0.2500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 321.56
+  TTI_sec                : 558.4277
+  TTI_score              : 0.4466
+  FeasibleInitial        : 1
+  FeasibleSystemsInitial : SİPER
+  ExpectedAction         : SİPER
+  ChosenAction           : SİPER
+  PkillEstimate          : 0.8888
+  OperationalCorrect     : 1
+

@@ -1,0 +1,63 @@
+TEST SENARYO ANGAJMAN SONUÇLARI
+============================================================================================================================================
+
+SENARYO NO              : 7
+ScenarioSet             : TEST
+Toplam Hedef Sayısı     : 3
+Episode Toplam Reward   : 25.2075
+Operational Accuracy    : 1.0000
+
+Hedef-1
+  Adı                    : F-16 Fighting Falcon
+  RewardSignal           : 0.7437
+  Distance_km            : 46.43
+  Altitude_m             : 14833.27
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 1
+  Speed_kmh              : 2396.74
+  TTI_sec                : 69.7397
+  TTI_score              : 0.0000
+  FeasibleInitial        : 0
+  FeasibleSystemsInitial : NONE
+  ExpectedAction         : NO-ENGAGE
+  ChosenAction           : NO-ENGAGE
+  PkillEstimate          : 0.0000
+  OperationalCorrect     : 1
+
+Hedef-2
+  Adı                    : MQ-9 Reaper
+  RewardSignal           : 0.3604
+  Distance_km            : 6.65
+  Altitude_m             : 2296.05
+  ECMScore               : 0.2500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 491.95
+  TTI_sec                : 48.6635
+  TTI_score              : 0.4030
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.7057
+  OperationalCorrect     : 1
+
+Hedef-3
+  Adı                    : Kh-55 Seyir Füzesi
+  RewardSignal           : 0.2515
+  Distance_km            : 3.90
+  Altitude_m             : 2659.79
+  ECMScore               : 0.2500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 805.14
+  TTI_sec                : 17.4380
+  TTI_score              : 1.0000
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.6654
+  OperationalCorrect     : 1
+

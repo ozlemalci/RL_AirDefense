@@ -1,0 +1,18 @@
+EXAMPLE TEST SCENARIO REPORT - HISAR A FIXED
+================================================================================
+
+Toplam episode reward: 27.6145
+
+HEDEF TABLOSU
+--------------------------------------------------------------------------------
+                Name  RewardSignal  Distance_km  Altitude_m  ECMScore  Detected  Speed_kmh  IFF   TTI_sec  TTI_score
+       Su-27 Flanker      0.951432        25.86    18571.84      1.00         1    2794.18    2 33.317825   0.405565
+F-16 Fighting Falcon      0.743712         6.96     4206.47      0.75         1    2154.07    2 11.631934   1.000000
+          B-2 Spirit      0.527206        12.78     6785.32      0.75         1     956.24    1 48.113444   0.000000
+
+KARARLAR
+--------------------------------------------------------------------------------
+          TargetName  FeasibleInitial ExpectedAction ChosenAction  PkillEstimate  OperationalCorrect
+       Su-27 Flanker                1          SİPER        SİPER       0.754212                   1
+F-16 Fighting Falcon                2        HİSAR A      HİSAR A       0.555735                   1
+          B-2 Spirit                0      NO-ENGAGE    NO-ENGAGE       0.000000                   1

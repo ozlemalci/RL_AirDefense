@@ -1,0 +1,171 @@
+VALIDATION SENARYO ANGAJMAN SONUÇLARI
+============================================================================================================================================
+
+SENARYO NO              : 5
+ScenarioSet             : VALIDATION
+Toplam Hedef Sayısı     : 9
+Episode Toplam Reward   : 78.0069
+Operational Accuracy    : 1.0000
+
+Hedef-1
+  Adı                    : Eurofighter Typhoon
+  RewardSignal           : 0.9853
+  Distance_km            : 18.79
+  Altitude_m             : 3879.88
+  ECMScore               : 1.0000
+  Detected               : 1
+  IFF                    : 0
+  Speed_kmh              : 2219.77
+  TTI_sec                : 30.4734
+  TTI_score              : 0.9829
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR O+
+  ExpectedAction         : HİSAR O+
+  ChosenAction           : HİSAR O+
+  PkillEstimate          : 0.7615
+  OperationalCorrect     : 1
+
+Hedef-2
+  Adı                    : F-4 Phantom II
+  RewardSignal           : 0.7884
+  Distance_km            : 13.88
+  Altitude_m             : 2824.78
+  ECMScore               : 0.2500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 2338.04
+  TTI_sec                : 21.3717
+  TTI_score              : 1.0000
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.6667
+  OperationalCorrect     : 1
+
+Hedef-3
+  Adı                    : Dassault Rafale
+  RewardSignal           : 0.7853
+  Distance_km            : 11.06
+  Altitude_m             : 1860.90
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 1706.01
+  TTI_sec                : 23.3387
+  TTI_score              : 0.9963
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.5789
+  OperationalCorrect     : 1
+
+Hedef-4
+  Adı                    : Bayraktar Akıncı TİHA
+  RewardSignal           : 0.4302
+  Distance_km            : 16.80
+  Altitude_m             : 9174.52
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 332.49
+  TTI_sec                : 181.9002
+  TTI_score              : 0.6990
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR O+
+  ExpectedAction         : HİSAR O+
+  ChosenAction           : HİSAR O+
+  PkillEstimate          : 0.8256
+  OperationalCorrect     : 1
+
+Hedef-5
+  Adı                    : H-6
+  RewardSignal           : 0.4275
+  Distance_km            : 7.36
+  Altitude_m             : 9265.14
+  ECMScore               : 0.2500
+  Detected               : 1
+  IFF                    : 0
+  Speed_kmh              : 1027.48
+  TTI_sec                : 25.7874
+  TTI_score              : 0.9917
+  FeasibleInitial        : 1
+  FeasibleSystemsInitial : HİSAR O+
+  ExpectedAction         : HİSAR O+
+  ChosenAction           : HİSAR O+
+  PkillEstimate          : 0.8272
+  OperationalCorrect     : 1
+
+Hedef-6
+  Adı                    : Storm Shadow
+  RewardSignal           : 0.3733
+  Distance_km            : 13.74
+  Altitude_m             : 8002.72
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 0
+  Speed_kmh              : 903.93
+  TTI_sec                : 54.7211
+  TTI_score              : 0.9375
+  FeasibleInitial        : 1
+  FeasibleSystemsInitial : HİSAR O+
+  ExpectedAction         : HİSAR O+
+  ChosenAction           : HİSAR O+
+  PkillEstimate          : 0.8497
+  OperationalCorrect     : 1
+
+Hedef-7
+  Adı                    : Tomahawk Block IV
+  RewardSignal           : 0.3573
+  Distance_km            : 144.06
+  Altitude_m             : 16879.03
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 1
+  Speed_kmh              : 934.90
+  TTI_sec                : 554.7288
+  TTI_score              : 0.0000
+  FeasibleInitial        : 0
+  FeasibleSystemsInitial : NONE
+  ExpectedAction         : NO-ENGAGE
+  ChosenAction           : NO-ENGAGE
+  PkillEstimate          : 0.0000
+  OperationalCorrect     : 1
+
+Hedef-8
+  Adı                    : Kh-55 Seyir Füzesi
+  RewardSignal           : 0.2515
+  Distance_km            : 7.87
+  Altitude_m             : 4537.85
+  ECMScore               : 0.2500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 875.09
+  TTI_sec                : 32.3761
+  TTI_score              : 0.9794
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.6996
+  OperationalCorrect     : 1
+
+Hedef-9
+  Adı                    : Mi-24 Hind
+  RewardSignal           : 0.2513
+  Distance_km            : 16.72
+  Altitude_m             : 10750.64
+  ECMScore               : 0.5000
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 302.59
+  TTI_sec                : 198.9226
+  TTI_score              : 0.6671
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR O+
+  ExpectedAction         : HİSAR O+
+  ChosenAction           : HİSAR O+
+  PkillEstimate          : 0.8522
+  OperationalCorrect     : 1
+

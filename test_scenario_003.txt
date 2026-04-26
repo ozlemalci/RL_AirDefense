@@ -1,0 +1,135 @@
+TEST SENARYO ANGAJMAN SONUÇLARI
+============================================================================================================================================
+
+SENARYO NO              : 3
+ScenarioSet             : TEST
+Toplam Hedef Sayısı     : 7
+Episode Toplam Reward   : 51.8217
+Operational Accuracy    : 1.0000
+
+Hedef-1
+  Adı                    : Eurofighter Typhoon
+  RewardSignal           : 0.9853
+  Distance_km            : 52.24
+  Altitude_m             : 3662.65
+  ECMScore               : 1.0000
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 2352.92
+  TTI_sec                : 79.9279
+  TTI_score              : 0.4586
+  FeasibleInitial        : 1
+  FeasibleSystemsInitial : SİPER
+  ExpectedAction         : SİPER
+  ChosenAction           : SİPER
+  PkillEstimate          : 0.8237
+  OperationalCorrect     : 1
+
+Hedef-2
+  Adı                    : F-16 Fighting Falcon
+  RewardSignal           : 0.7437
+  Distance_km            : 62.88
+  Altitude_m             : 6299.05
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 0
+  Speed_kmh              : 2175.94
+  TTI_sec                : 104.0323
+  TTI_score              : 0.2723
+  FeasibleInitial        : 1
+  FeasibleSystemsInitial : SİPER
+  ExpectedAction         : SİPER
+  ChosenAction           : SİPER
+  PkillEstimate          : 0.9039
+  OperationalCorrect     : 1
+
+Hedef-3
+  Adı                    : Tu-160 Blackjack
+  RewardSignal           : 0.7035
+  Distance_km            : 77.03
+  Altitude_m             : 9453.90
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 1991.41
+  TTI_sec                : 139.2521
+  TTI_score              : 0.0000
+  FeasibleInitial        : 1
+  FeasibleSystemsInitial : SİPER
+  ExpectedAction         : SİPER
+  ChosenAction           : SİPER
+  PkillEstimate          : 0.9118
+  OperationalCorrect     : 1
+
+Hedef-4
+  Adı                    : Heron TP (Eitan)
+  RewardSignal           : 0.4301
+  Distance_km            : 4.40
+  Altitude_m             : 4819.73
+  ECMScore               : 0.7500
+  Detected               : 0
+  IFF                    : 2
+  Speed_kmh              : 398.01
+  TTI_sec                : 39.7980
+  TTI_score              : 0.7689
+  FeasibleInitial        : 0
+  FeasibleSystemsInitial : NONE
+  ExpectedAction         : NO-ENGAGE
+  ChosenAction           : NO-ENGAGE
+  PkillEstimate          : 0.0000
+  OperationalCorrect     : 1
+
+Hedef-5
+  Adı                    : Storm Shadow
+  RewardSignal           : 0.3733
+  Distance_km            : 3.02
+  Altitude_m             : 4326.20
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 1097.56
+  TTI_sec                : 9.9056
+  TTI_score              : 1.0000
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.5020
+  OperationalCorrect     : 1
+
+Hedef-6
+  Adı                    : Kh-55 Seyir Füzesi
+  RewardSignal           : 0.2515
+  Distance_km            : 3.11
+  Altitude_m             : 2071.35
+  ECMScore               : 0.2500
+  Detected               : 1
+  IFF                    : 0
+  Speed_kmh              : 938.85
+  TTI_sec                : 11.9252
+  TTI_score              : 0.9844
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.6608
+  OperationalCorrect     : 1
+
+Hedef-7
+  Adı                    : T129 ATAK
+  RewardSignal           : 0.2024
+  Distance_km            : 8.47
+  Altitude_m             : 12190.75
+  ECMScore               : 0.2500
+  Detected               : 0
+  IFF                    : 0
+  Speed_kmh              : 256.30
+  TTI_sec                : 118.9700
+  TTI_score              : 0.1568
+  FeasibleInitial        : 0
+  FeasibleSystemsInitial : NONE
+  ExpectedAction         : NO-ENGAGE
+  ChosenAction           : NO-ENGAGE
+  PkillEstimate          : 0.0000
+  OperationalCorrect     : 1
+

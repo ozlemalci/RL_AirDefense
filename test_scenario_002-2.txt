@@ -1,0 +1,171 @@
+TEST SENARYO ANGAJMAN SONUÇLARI
+============================================================================================================================================
+
+SENARYO NO              : 2
+ScenarioSet             : TEST
+Toplam Hedef Sayısı     : 9
+Episode Toplam Reward   : 59.0733
+Operational Accuracy    : 1.0000
+
+Hedef-1
+  Adı                    : Tu-160 Blackjack
+  RewardSignal           : 0.7035
+  Distance_km            : 7.69
+  Altitude_m             : 5400.09
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 2365.70
+  TTI_sec                : 11.7022
+  TTI_score              : 1.0000
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.5595
+  OperationalCorrect     : 1
+
+Hedef-2
+  Adı                    : Bayraktar Akıncı TİHA
+  RewardSignal           : 0.4302
+  Distance_km            : 6.84
+  Altitude_m             : 3520.95
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 372.53
+  TTI_sec                : 66.0994
+  TTI_score              : 0.9306
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.5610
+  OperationalCorrect     : 1
+
+Hedef-3
+  Adı                    : Heron TP (Eitan)
+  RewardSignal           : 0.4301
+  Distance_km            : 68.11
+  Altitude_m             : 19769.26
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 440.17
+  TTI_sec                : 557.0484
+  TTI_score              : 0.3043
+  FeasibleInitial        : 1
+  FeasibleSystemsInitial : SİPER
+  ExpectedAction         : SİPER
+  ChosenAction           : SİPER
+  PkillEstimate          : 0.8812
+  OperationalCorrect     : 1
+
+Hedef-4
+  Adı                    : B-52 Stratofortress
+  RewardSignal           : 0.3819
+  Distance_km            : 24.86
+  Altitude_m             : 11899.89
+  ECMScore               : 0.2500
+  Detected               : 0
+  IFF                    : 2
+  Speed_kmh              : 1103.95
+  TTI_sec                : 81.0689
+  TTI_score              : 0.9115
+  FeasibleInitial        : 0
+  FeasibleSystemsInitial : NONE
+  ExpectedAction         : NO-ENGAGE
+  ChosenAction           : NO-ENGAGE
+  PkillEstimate          : 0.0000
+  OperationalCorrect     : 1
+
+Hedef-5
+  Adı                    : Storm Shadow
+  RewardSignal           : 0.3733
+  Distance_km            : 93.19
+  Altitude_m             : 18802.78
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 995.31
+  TTI_sec                : 337.0648
+  TTI_score              : 0.5850
+  FeasibleInitial        : 1
+  FeasibleSystemsInitial : SİPER
+  ExpectedAction         : SİPER
+  ChosenAction           : SİPER
+  PkillEstimate          : 0.8919
+  OperationalCorrect     : 1
+
+Hedef-6
+  Adı                    : MQ-9 Reaper
+  RewardSignal           : 0.3604
+  Distance_km            : 6.36
+  Altitude_m             : 10626.63
+  ECMScore               : 0.2500
+  Detected               : 0
+  IFF                    : 2
+  Speed_kmh              : 447.94
+  TTI_sec                : 51.1140
+  TTI_score              : 0.9497
+  FeasibleInitial        : 0
+  FeasibleSystemsInitial : NONE
+  ExpectedAction         : NO-ENGAGE
+  ChosenAction           : NO-ENGAGE
+  PkillEstimate          : 0.0000
+  OperationalCorrect     : 1
+
+Hedef-7
+  Adı                    : Tomahawk Block IV
+  RewardSignal           : 0.3573
+  Distance_km            : 13.85
+  Altitude_m             : 2070.11
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 1
+  Speed_kmh              : 819.58
+  TTI_sec                : 60.8360
+  TTI_score              : 0.9373
+  FeasibleInitial        : 0
+  FeasibleSystemsInitial : NONE
+  ExpectedAction         : NO-ENGAGE
+  ChosenAction           : NO-ENGAGE
+  PkillEstimate          : 0.0000
+  OperationalCorrect     : 1
+
+Hedef-8
+  Adı                    : Kh-55 Seyir Füzesi
+  RewardSignal           : 0.2515
+  Distance_km            : 11.83
+  Altitude_m             : 1618.89
+  ECMScore               : 0.2500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 780.28
+  TTI_sec                : 54.5804
+  TTI_score              : 0.9453
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.7061
+  OperationalCorrect     : 1
+
+Hedef-9
+  Adı                    : AH-64 Apache
+  RewardSignal           : 0.2449
+  Distance_km            : 66.57
+  Altitude_m             : 18154.77
+  ECMScore               : 0.2500
+  Detected               : 1
+  IFF                    : 1
+  Speed_kmh              : 301.21
+  TTI_sec                : 795.6310
+  TTI_score              : 0.0000
+  FeasibleInitial        : 0
+  FeasibleSystemsInitial : NONE
+  ExpectedAction         : NO-ENGAGE
+  ChosenAction           : NO-ENGAGE
+  PkillEstimate          : 0.0000
+  OperationalCorrect     : 1
+

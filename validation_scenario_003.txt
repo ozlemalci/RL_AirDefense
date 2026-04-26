@@ -1,0 +1,117 @@
+VALIDATION SENARYO ANGAJMAN SONUÇLARI
+============================================================================================================================================
+
+SENARYO NO              : 3
+ScenarioSet             : VALIDATION
+Toplam Hedef Sayısı     : 6
+Episode Toplam Reward   : 53.8338
+Operational Accuracy    : 0.8333
+
+Hedef-1
+  Adı                    : J-20
+  RewardSignal           : 0.8211
+  Distance_km            : 136.29
+  Altitude_m             : 7198.05
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 2225.07
+  TTI_sec                : 220.5072
+  TTI_score              : 0.2548
+  FeasibleInitial        : 1
+  FeasibleSystemsInitial : SİPER
+  ExpectedAction         : SİPER
+  ChosenAction           : SİPER
+  PkillEstimate          : 0.8653
+  OperationalCorrect     : 1
+
+Hedef-2
+  Adı                    : F-35 Lightning II
+  RewardSignal           : 0.8160
+  Distance_km            : 21.86
+  Altitude_m             : 11972.10
+  ECMScore               : 1.0000
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 1994.35
+  TTI_sec                : 39.4595
+  TTI_score              : 0.9100
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR O+, SİPER
+  ExpectedAction         : HİSAR O+
+  ChosenAction           : SİPER
+  PkillEstimate          : 0.7614
+  OperationalCorrect     : 0
+
+Hedef-3
+  Adı                    : F-4 Phantom II
+  RewardSignal           : 0.7884
+  Distance_km            : 8.74
+  Altitude_m             : 1819.96
+  ECMScore               : 0.2500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 2157.24
+  TTI_sec                : 14.5853
+  TTI_score              : 1.0000
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.7383
+  OperationalCorrect     : 1
+
+Hedef-4
+  Adı                    : B-52 Stratofortress
+  RewardSignal           : 0.3819
+  Distance_km            : 85.21
+  Altitude_m             : 4710.37
+  ECMScore               : 0.2500
+  Detected               : 1
+  IFF                    : 1
+  Speed_kmh              : 1054.42
+  TTI_sec                : 290.9239
+  TTI_score              : 0.0000
+  FeasibleInitial        : 0
+  FeasibleSystemsInitial : NONE
+  ExpectedAction         : NO-ENGAGE
+  ChosenAction           : NO-ENGAGE
+  PkillEstimate          : 0.0000
+  OperationalCorrect     : 1
+
+Hedef-5
+  Adı                    : Storm Shadow
+  RewardSignal           : 0.3733
+  Distance_km            : 5.25
+  Altitude_m             : 4908.64
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 0
+  Speed_kmh              : 1007.31
+  TTI_sec                : 18.7628
+  TTI_score              : 0.9849
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.5270
+  OperationalCorrect     : 1
+
+Hedef-6
+  Adı                    : Wing Loong II
+  RewardSignal           : 0.2099
+  Distance_km            : 13.78
+  Altitude_m             : 3321.50
+  ECMScore               : 0.0000
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 339.58
+  TTI_sec                : 146.0863
+  TTI_score              : 0.5241
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.6631
+  OperationalCorrect     : 1
+

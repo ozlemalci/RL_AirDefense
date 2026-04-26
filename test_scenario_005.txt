@@ -1,0 +1,99 @@
+TEST SENARYO ANGAJMAN SONUÇLARI
+============================================================================================================================================
+
+SENARYO NO              : 5
+ScenarioSet             : TEST
+Toplam Hedef Sayısı     : 5
+Episode Toplam Reward   : 45.0463
+Operational Accuracy    : 1.0000
+
+Hedef-1
+  Adı                    : Su-27 Flanker
+  RewardSignal           : 0.9514
+  Distance_km            : 39.74
+  Altitude_m             : 9050.56
+  ECMScore               : 1.0000
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 2732.34
+  TTI_sec                : 52.3595
+  TTI_score              : 0.9723
+  FeasibleInitial        : 1
+  FeasibleSystemsInitial : SİPER
+  ExpectedAction         : SİPER
+  ChosenAction           : SİPER
+  PkillEstimate          : 0.7921
+  OperationalCorrect     : 1
+
+Hedef-2
+  Adı                    : F-35 Lightning II
+  RewardSignal           : 0.8160
+  Distance_km            : 6.82
+  Altitude_m             : 9151.28
+  ECMScore               : 1.0000
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 1986.70
+  TTI_sec                : 12.3582
+  TTI_score              : 1.0000
+  FeasibleInitial        : 1
+  FeasibleSystemsInitial : HİSAR O+
+  ExpectedAction         : HİSAR O+
+  ChosenAction           : HİSAR O+
+  PkillEstimate          : 0.7189
+  OperationalCorrect     : 1
+
+Hedef-3
+  Adı                    : Bayraktar Akıncı TİHA
+  RewardSignal           : 0.4302
+  Distance_km            : 144.18
+  Altitude_m             : 12180.22
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 1
+  Speed_kmh              : 356.49
+  TTI_sec                : 1455.9960
+  TTI_score              : 0.0000
+  FeasibleInitial        : 0
+  FeasibleSystemsInitial : NONE
+  ExpectedAction         : NO-ENGAGE
+  ChosenAction           : NO-ENGAGE
+  PkillEstimate          : 0.0000
+  OperationalCorrect     : 1
+
+Hedef-4
+  Adı                    : Heron TP (Eitan)
+  RewardSignal           : 0.4301
+  Distance_km            : 11.62
+  Altitude_m             : 3310.39
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 443.08
+  TTI_sec                : 94.4118
+  TTI_score              : 0.9432
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.5570
+  OperationalCorrect     : 1
+
+Hedef-5
+  Adı                    : AH-64 Apache
+  RewardSignal           : 0.2449
+  Distance_km            : 10.02
+  Altitude_m             : 4574.31
+  ECMScore               : 0.2500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 266.28
+  TTI_sec                : 135.4664
+  TTI_score              : 0.9147
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.7007
+  OperationalCorrect     : 1
+

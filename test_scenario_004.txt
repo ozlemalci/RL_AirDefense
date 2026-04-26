@@ -1,0 +1,81 @@
+TEST SENARYO ANGAJMAN SONUÇLARI
+============================================================================================================================================
+
+SENARYO NO              : 4
+ScenarioSet             : TEST
+Toplam Hedef Sayısı     : 4
+Episode Toplam Reward   : 35.8913
+Operational Accuracy    : 1.0000
+
+Hedef-1
+  Adı                    : Su-27 Flanker
+  RewardSignal           : 0.9514
+  Distance_km            : 3.22
+  Altitude_m             : 2622.41
+  ECMScore               : 1.0000
+  Detected               : 1
+  IFF                    : 0
+  Speed_kmh              : 2270.76
+  TTI_sec                : 5.1049
+  TTI_score              : 1.0000
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.4467
+  OperationalCorrect     : 1
+
+Hedef-2
+  Adı                    : F-16 Fighting Falcon
+  RewardSignal           : 0.7437
+  Distance_km            : 6.89
+  Altitude_m             : 164.25
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 2224.08
+  TTI_sec                : 11.1525
+  TTI_score              : 0.9880
+  FeasibleInitial        : 2
+  FeasibleSystemsInitial : HİSAR A, HİSAR O+
+  ExpectedAction         : HİSAR A
+  ChosenAction           : HİSAR A
+  PkillEstimate          : 0.5952
+  OperationalCorrect     : 1
+
+Hedef-3
+  Adı                    : Tu-160 Blackjack
+  RewardSignal           : 0.7035
+  Distance_km            : 12.80
+  Altitude_m             : 8970.75
+  ECMScore               : 0.7500
+  Detected               : 1
+  IFF                    : 2
+  Speed_kmh              : 1992.49
+  TTI_sec                : 23.1268
+  TTI_score              : 0.9643
+  FeasibleInitial        : 1
+  FeasibleSystemsInitial : HİSAR O+
+  ExpectedAction         : HİSAR O+
+  ChosenAction           : HİSAR O+
+  PkillEstimate          : 0.8382
+  OperationalCorrect     : 1
+
+Hedef-4
+  Adı                    : AH-64 Apache
+  RewardSignal           : 0.2449
+  Distance_km            : 43.46
+  Altitude_m             : 3312.08
+  ECMScore               : 0.2500
+  Detected               : 1
+  IFF                    : 0
+  Speed_kmh              : 307.16
+  TTI_sec                : 509.3632
+  TTI_score              : 0.0000
+  FeasibleInitial        : 1
+  FeasibleSystemsInitial : SİPER
+  ExpectedAction         : SİPER
+  ChosenAction           : SİPER
+  PkillEstimate          : 0.9189
+  OperationalCorrect     : 1
+
